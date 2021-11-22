@@ -117,9 +117,8 @@ footer img {
 }
 
 .main-header {
-  background:
-    linear-gradient(rgba(255, 0, 0, 0.5), #ec5242),
-    url("./images/child3.jpg");
+  background: linear-gradient(rgba(255, 0, 0, 0.5), #ec5242),
+  url("./images/child3.jpg");
   width: 100%;
   background-position: center;
   background-repeat: no-repeat;

@@ -30,7 +30,7 @@ click on the website and demo below to view project
 
 Desktop view header                      |  Mobile view header
 :---------------------------------------:|:---------------------------------------:
-![](./images/Desktop-home.PNG)           |  ![](./images/mobile-view.PNG)
+![](./images/Desktop-home.PNG)           |  ![](./images/Mobile-view.PNG)
 
 ## Author
 

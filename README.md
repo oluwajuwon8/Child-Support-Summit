@@ -26,6 +26,12 @@ click on the website and demo below to view project
 
 - link to loom to see video presesentation: [video link]()
 
+## Project screenshot
+
+Desktop view header                      |  Mobile view header
+:---------------------------------------:|:---------------------------------------:
+![](./images/Desktop-home.PNG)           |  ![](./images/Mobile-view.PNG)
+
 ## Author
 
 👤 **showole azeezat**

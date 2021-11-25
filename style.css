@@ -197,7 +197,8 @@ footer img {
 }
 
 .main-header {
-  background: linear-gradient(hsl(0deg 0% 0%/ 10%), #ec5242),
+  background:
+    linear-gradient(hsl(0deg 0% 0%/ 10%), #ec5242),
     url("./images/child3.jpg");
   width: 100%;
   background-position: center;

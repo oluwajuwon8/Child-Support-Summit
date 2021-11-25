@@ -56,14 +56,14 @@ body {
   color: #d3d3d3;
 }
 
-.header-details ul li a {
-  text-decoration: none;
-  color: #f8f8f8;
-}
-
 .about-head-margin a {
   color: #272a31;
   text-decoration: underline;
+}
+
+.header-details ul li a {
+  text-decoration: none;
+  color: #f8f8f8;
 }
 
 .navbar {
@@ -77,6 +77,11 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+footer img {
+  width: 100px;
+  margin: 10% 8px;
 }
 
 .desktop-logo img {
@@ -118,7 +123,7 @@ body {
 }
 
 .main-header {
-  background: linear-gradient(rgba(255, 0, 0, 0.5), #ec5242),
+  background: linear-gradient(hsl(0deg 0% 0%/ 10%), #ec5242),
     url("./images/child3.jpg");
   width: 100%;
   background-position: center;
@@ -270,7 +275,7 @@ footer h2 {
 .speaker-img {
   position: relative;
   padding-right: 10px;
-  background-image: url("./public/checkered.png");
+  background-image: url("./images/checkered.png");
   background-repeat: no-repeat;
 }
 
@@ -331,7 +336,7 @@ p.profile-detail {
 }
 
 .speaker-img .picture > img {
-  margin-left: 10px;
+  margin-left: 1px;
   margin-top: 10px;
   width: 80px;
   height: 80px;
@@ -800,5 +805,37 @@ footer .footer-icon {
   .events-img:hover .event-desc {
     bottom: 25%;
     opacity: 1;
+  }
+}
+
+@media all and (min-width: 769px) {
+  .main-h {
+    height: 100vh;
+  }
+
+  .main-h .head-margin {
+    margin-top: 25px;
+  }
+
+  .nav-flex ul {
+    display: flex;
+    align-items: center;
+  }
+
+  .nav-flex ul li a {
+    text-decoration: none;
+    color: #3e3e3e;
+  }
+
+  .nav-flex ul li a:hover {
+    color: #ec5242;
+  }
+
+  .join-btn {
+    display: none;
+  }
+
+  .row {
+    margin: 0;
   }
 }

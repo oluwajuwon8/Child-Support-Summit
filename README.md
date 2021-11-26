@@ -24,7 +24,7 @@ click on the website and demo below to view project
 
 - link to website: [website link]( https://oluwajuwon8.github.io/Child-Support-Summit/)
 
-- link to loom to see video presesentation: [video link]()
+- link to loom to see video presesentation: [video link](https://www.loom.com/share/4fe9c74972d94a7b90ab101ea13ce4df)
 
 ## Project screenshot
 
